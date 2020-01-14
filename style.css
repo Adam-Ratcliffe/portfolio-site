@@ -1,0 +1,27 @@
+body{
+  margin: 0px;
+}
+div{
+  width: 100%;
+  background-color: #055990;
+}
+div.page{
+  height: 100%;
+}
+div.main{
+  border-color: #000;
+  border-style: solid;
+  text-align: center;
+  color: #CC9960;
+  top: 100px;
+  left: 100px;
+  width: 200px;
+  height: 200px;
+}
+
+div.shaded{
+  background-color: #033770;
+}
+
+h1.tite{
+}
